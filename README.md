@@ -1,5 +1,7 @@
 # CLOUDAWS
- SIMPLE CDN TO DELIVER STATIC CONTENT IMAGE FROM CLOUD STORAGE 
+SIMPLE CDN TO DELIVER STATIC CONTENT IMAGE FROM CLOUD STORAGE 
+
+
 STEP 1:
 Create a general purpose S3 bucket in AWS and the already present settings can be kept 
 
